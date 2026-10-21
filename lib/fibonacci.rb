@@ -25,7 +25,3 @@ def fibs_rec(number)
   previous_sequence
 end
 
-
-
-# here previous sequence = [0, 1] as the base.
-# need to get the third [0, 1, 1] to work now.
